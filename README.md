@@ -1,2 +1,4 @@
 # ox-video-carousel
-awesome carousel for video site.
+Awesome carousel for video site. Developed with vue.js.
+
+公牛视频站轮播大图vue插件
